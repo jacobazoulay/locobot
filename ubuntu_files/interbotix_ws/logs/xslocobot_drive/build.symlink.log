@@ -1,0 +1,10 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/xslocobot_drive.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/xs_scripts/__init__.py
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xslocobot_drive/getImage.py
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xslocobot_drive/joint_test
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xslocobot_drive/cmake.lock
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xslocobot_drive/pilot.py
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xslocobot_drive/hello
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xslocobot_drive/traceSquare
+Symlinking /home/ubuntu/interbotix_ws/devel/share/xslocobot_drive/cmake/xslocobot_driveConfig.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/xslocobot_drive/cmake/xslocobot_driveConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_common_modules.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/interbotix_common_modules/__init__.py
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_common_modules/cmake/interbotix_common_modulesConfig.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_common_modules/cmake/interbotix_common_modulesConfig-version.cmake

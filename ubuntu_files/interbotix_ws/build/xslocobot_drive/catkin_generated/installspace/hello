@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+import xs_scripts.hello
+
+if __name__ == '__main__':
+    xs_scripts.hello.say('my friend!')

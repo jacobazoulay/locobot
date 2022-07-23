@@ -1,0 +1,7 @@
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_SETUP_MODULE "distutils.core")
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_VERSION "0.0.0")
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_SCRIPTS "")
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_PACKAGES "interbotix_xslocobot_landmark_nav")
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_PACKAGE_DIRS "src/interbotix_xslocobot_landmark_nav")
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_MODULES "")
+set(interbotix_xslocobot_landmark_nav_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,6 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_landmark_nav.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_xslocobot_landmark_nav/cmake.lock
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_xslocobot_landmark_nav/nav_to_landmark
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/interbotix_xslocobot_landmark_nav/__init__.py
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_landmark_nav/cmake/interbotix_xslocobot_landmark_navConfig.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_landmark_nav/cmake/interbotix_xslocobot_landmark_navConfig-version.cmake

@@ -1,0 +1,7 @@
+set(xslocobot_drive_SETUP_PY_SETUP_MODULE "distutils.core")
+set(xslocobot_drive_SETUP_PY_VERSION "0.0.0")
+set(xslocobot_drive_SETUP_PY_SCRIPTS "")
+set(xslocobot_drive_SETUP_PY_PACKAGES "xs_scripts")
+set(xslocobot_drive_SETUP_PY_PACKAGE_DIRS "src/xs_scripts")
+set(xslocobot_drive_SETUP_PY_MODULES "")
+set(xslocobot_drive_SETUP_PY_MODULE_DIRS "")

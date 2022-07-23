@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/interbotix_ws/devel/.private/xslocobot_drive
+
+Name: xslocobot_drive
+Description: Description of xslocobot_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

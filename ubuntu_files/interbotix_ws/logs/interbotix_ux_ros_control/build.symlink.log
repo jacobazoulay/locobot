@@ -1,0 +1,4 @@
+Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_ros_control/lib/interbotix_ux_ros_control/ux_hardware_interface, /home/ubuntu/interbotix_ws/devel/lib/interbotix_ux_ros_control/ux_hardware_interface)
+Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_ros_control/lib/pkgconfig/interbotix_ux_ros_control.pc, /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_ux_ros_control.pc)
+Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_ros_control/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig.cmake, /home/ubuntu/interbotix_ws/devel/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig.cmake)
+Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_ros_control/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig-version.cmake, /home/ubuntu/interbotix_ws/devel/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig-version.cmake)

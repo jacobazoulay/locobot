@@ -1,0 +1,8 @@
+interbotix_ros_rovers/interbotix_ros_xslocobots/examples/interbotix_xslocobot_joy
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/lib/pkgconfig/interbotix_xslocobot_joy.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_joy.pc
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/lib/interbotix_xslocobot_joy/xslocobot_robot /home/ubuntu/interbotix_ws/devel/lib/interbotix_xslocobot_joy/xslocobot_robot
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/lib/interbotix_xslocobot_joy/cmake.lock /home/ubuntu/interbotix_ws/devel/lib/interbotix_xslocobot_joy/cmake.lock
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/lib/interbotix_xslocobot_joy/xslocobot_joy /home/ubuntu/interbotix_ws/devel/lib/interbotix_xslocobot_joy/xslocobot_joy
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/share/interbotix_xslocobot_joy/cmake/interbotix_xslocobot_joyConfig.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_joy/cmake/interbotix_xslocobot_joyConfig.cmake
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/share/interbotix_xslocobot_joy/cmake/interbotix_xslocobot_joyConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_joy/cmake/interbotix_xslocobot_joyConfig-version.cmake

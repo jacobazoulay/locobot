@@ -1,0 +1,7 @@
+#! /usr/bin/env python
+
+import xs_scripts.test 
+from interbotix_xs_modules.locobot import InterbotixLocobotXS
+
+if __name__ == '__main__':
+    xs_scripts.test.move_test()

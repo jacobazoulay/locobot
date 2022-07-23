@@ -1,0 +1,1 @@
+/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules/share/interbotix_ux_modules/cmake/interbotix_ux_modulesConfig.cmake

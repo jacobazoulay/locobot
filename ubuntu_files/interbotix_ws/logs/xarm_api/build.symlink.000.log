@@ -1,0 +1,12 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/libxarm_api.so
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/libxarm_ros_client.so
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/example1_report_norm_node
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/move_test
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/servo_cartesian_test.py
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/cmake.lock
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/xarm_driver_node
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/servo_cart_test
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/xarm_api/test_tool_modbus
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/xarm_api.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/share/xarm_api/cmake/xarm_apiConfig.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/xarm_api/cmake/xarm_apiConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_ux_ros_control/ux_hardware_interface
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_ux_ros_control.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_ux_ros_control/cmake/interbotix_ux_ros_controlConfig-version.cmake

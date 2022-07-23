@@ -1,0 +1,3 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_perception.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_perception/cmake/interbotix_xslocobot_perceptionConfig.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_perception/cmake/interbotix_xslocobot_perceptionConfig-version.cmake

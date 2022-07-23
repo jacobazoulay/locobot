@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/interbotix_ws/devel/.private/xarm_api
+
+Name: xarm_api
+Description: Description of xarm_api
+Version: 0.0.0
+Cflags: -I/home/ubuntu/interbotix_ws/src/interbotix_ros_core/interbotix_ros_uxarms/xarm_api/include
+Libs: -L${prefix}/lib -lxarm_api -lxarm_ros_client
+Requires: roscpp std_msgs

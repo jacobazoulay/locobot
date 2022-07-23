@@ -1,0 +1,8 @@
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_landmark_modules/landmark_finder
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_landmark_modules/cmake.lock
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_landmark_modules/tf_map_to_landmark
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_landmark_modules/landmark_manager
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_landmark_modules.pc
+Symlinking /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/interbotix_landmark_modules/__init__.py
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_landmark_modules/cmake/interbotix_landmark_modulesConfig-version.cmake
+Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_landmark_modules/cmake/interbotix_landmark_modulesConfig.cmake

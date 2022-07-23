@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/interbotix_ws/install
+
+Name: interbotix_xslocobot_landmark_nav
+Description: Description of interbotix_xslocobot_landmark_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: interbotix_xslocobot_control interbotix_xslocobot_nav interbotix_xslocobot_perception rospy tf2_ros geometry_msgs

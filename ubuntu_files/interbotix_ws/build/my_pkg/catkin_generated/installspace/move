@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+
+import my_pkg.move
+
+
+if __name__ == '__main__':
+    my_pkg.move.square()

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/interbotix_ws/install
+
+Name: test5
+Description: Description of test5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

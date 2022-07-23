@@ -1,0 +1,1 @@
+/home/ubuntu/interbotix_ws/devel/.private/kobuki_controller_tutorial/lib/pkgconfig/kobuki_controller_tutorial.pc
