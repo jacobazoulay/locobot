@@ -18,10 +18,10 @@ These scripts can be run in simulation and on the physical robot. They work on t
 
 ## Project Details
 ### Gazebo Simulation
-![Annotated box](/assets/images/gazebo-locobot.png)
+![Gazeob_Sim](/assets/images/gazebo-locobot.png)
 
 ### MoveIt Arm and Gripper Control
-![Visual rendering](/assets/images/rviz_locobot.png)
+![MoveIt_Commander](/assets/images/rviz_locobot.png)
 
 ### Trossen Robotics
 
