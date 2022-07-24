@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/interbotix_ws/devel/.private/interbotix_rpi_modules
-
-Name: interbotix_rpi_modules
-Description: Description of interbotix_rpi_modules
-Version: 0.0.0
-Cflags: -I/home/ubuntu/interbotix_ws/devel/.private/interbotix_rpi_modules/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime rospy std_msgs

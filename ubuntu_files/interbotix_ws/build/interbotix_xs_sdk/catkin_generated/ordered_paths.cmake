@@ -1,1 +1,0 @@
-set(ORDERED_PATHS "/home/ubuntu/interbotix_ws/devel/.private/dynamixel_workbench_toolbox/lib;/opt/ros/noetic/lib")

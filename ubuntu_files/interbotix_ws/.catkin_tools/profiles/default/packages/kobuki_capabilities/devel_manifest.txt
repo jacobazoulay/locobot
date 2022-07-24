@@ -1,5 +1,0 @@
-kobuki/kobuki_capabilities
-/home/ubuntu/interbotix_ws/devel/.private/kobuki_capabilities/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/kobuki_capabilities/lib/pkgconfig/kobuki_capabilities.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/kobuki_capabilities.pc
-/home/ubuntu/interbotix_ws/devel/.private/kobuki_capabilities/share/kobuki_capabilities/cmake/kobuki_capabilitiesConfig.cmake /home/ubuntu/interbotix_ws/devel/share/kobuki_capabilities/cmake/kobuki_capabilitiesConfig.cmake
-/home/ubuntu/interbotix_ws/devel/.private/kobuki_capabilities/share/kobuki_capabilities/cmake/kobuki_capabilitiesConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/kobuki_capabilities/cmake/kobuki_capabilitiesConfig-version.cmake

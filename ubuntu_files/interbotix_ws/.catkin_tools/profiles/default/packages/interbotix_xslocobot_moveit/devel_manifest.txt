@@ -1,5 +1,0 @@
-interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_moveit
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_moveit/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_moveit/lib/pkgconfig/interbotix_xslocobot_moveit.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_moveit.pc
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_moveit/share/interbotix_xslocobot_moveit/cmake/interbotix_xslocobot_moveitConfig.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_moveit/cmake/interbotix_xslocobot_moveitConfig.cmake
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_moveit/share/interbotix_xslocobot_moveit/cmake/interbotix_xslocobot_moveitConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_moveit/cmake/interbotix_xslocobot_moveitConfig-version.cmake

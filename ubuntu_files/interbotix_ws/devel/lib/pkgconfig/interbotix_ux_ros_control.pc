@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_ros_control/lib/pkgconfig/interbotix_ux_ros_control.pc

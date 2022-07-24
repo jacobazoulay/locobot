@@ -1,3 +1,0 @@
-CMake Error: The source directory "/home/ubuntu/interbotix_ws/src/interbotix_ros_rovers/interbotix_ros_xslocobots/locobot_test_pkg" does not exist.
-Specify --help for usage, or press the help button on the CMake GUI.
-make: *** [Makefile:334: cmake_check_build_system] Error 1

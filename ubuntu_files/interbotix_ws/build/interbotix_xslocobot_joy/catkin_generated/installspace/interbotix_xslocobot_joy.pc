@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/interbotix_ws/install
-
-Name: interbotix_xslocobot_joy
-Description: Description of interbotix_xslocobot_joy
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: interbotix_xslocobot_control interbotix_xs_msgs joy std_msgs

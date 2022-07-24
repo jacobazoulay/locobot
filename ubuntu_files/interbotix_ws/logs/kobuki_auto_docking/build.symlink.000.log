@@ -1,5 +1,0 @@
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/libkobuki_auto_docking_nodelet.so
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/libkobuki_auto_docking_ros.so
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/kobuki_auto_docking.pc
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig.cmake
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_auto_docking/cmake/kobuki_auto_dockingConfig-version.cmake

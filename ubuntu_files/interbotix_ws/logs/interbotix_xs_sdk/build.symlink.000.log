@@ -1,7 +1,0 @@
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/libinterbotix_xs_sdk.so
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_xs_sdk/cmake.lock
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_xs_sdk/xs_sdk_sim
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/interbotix_xs_sdk/xs_sdk
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xs_sdk.pc
-Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig-version.cmake
-Symlinking /home/ubuntu/interbotix_ws/devel/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig.cmake

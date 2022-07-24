@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_gazebo/share/interbotix_xslocobot_gazebo/cmake/interbotix_xslocobot_gazeboConfig.cmake

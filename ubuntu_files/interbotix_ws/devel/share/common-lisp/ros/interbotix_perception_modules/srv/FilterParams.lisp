@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_perception_modules/share/common-lisp/ros/interbotix_perception_modules/srv/FilterParams.lisp

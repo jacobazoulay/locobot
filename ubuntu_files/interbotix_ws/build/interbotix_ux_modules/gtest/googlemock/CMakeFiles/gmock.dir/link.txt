@@ -1,1 +1,0 @@
-/bin/c++ -fPIC   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/ubuntu/interbotix_ws/build/interbotix_ux_modules/gtest/lib ../lib/libgtest.so -lpthread 

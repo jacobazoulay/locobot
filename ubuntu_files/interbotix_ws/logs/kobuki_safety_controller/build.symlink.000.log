@@ -1,4 +1,0 @@
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/libkobuki_safety_controller_nodelet.so
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/kobuki_safety_controller.pc
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig-version.cmake
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_safety_controller/cmake/kobuki_safety_controllerConfig.cmake

@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/xslocobot_drive/lib/xslocobot_drive/getImage.py

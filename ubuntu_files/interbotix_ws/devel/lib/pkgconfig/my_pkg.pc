@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/lib/pkgconfig/my_pkg.pc

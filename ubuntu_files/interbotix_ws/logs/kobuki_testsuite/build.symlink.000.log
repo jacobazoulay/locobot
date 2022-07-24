@@ -1,4 +1,0 @@
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/kobuki_testsuite.pc
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/kobuki_testsuite/__init__.py
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_testsuite/cmake/kobuki_testsuiteConfig-version.cmake
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_testsuite/cmake/kobuki_testsuiteConfig.cmake

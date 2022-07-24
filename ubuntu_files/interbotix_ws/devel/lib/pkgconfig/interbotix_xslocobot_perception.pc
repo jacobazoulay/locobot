@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_perception/lib/pkgconfig/interbotix_xslocobot_perception.pc

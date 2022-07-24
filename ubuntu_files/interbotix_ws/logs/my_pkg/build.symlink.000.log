@@ -1,6 +1,0 @@
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/my_pkg/cmake.lock
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/my_pkg/move
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/my_pkg.pc
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/my_pkg/__init__.py
-Symlinking /home/ubuntu/interbotix_ws/devel/share/my_pkg/cmake/my_pkgConfig.cmake
-Symlinking /home/ubuntu/interbotix_ws/devel/share/my_pkg/cmake/my_pkgConfig-version.cmake

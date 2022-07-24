@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_moveit
-
-Name: interbotix_xslocobot_moveit
-Description: Description of interbotix_xslocobot_moveit
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

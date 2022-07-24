@@ -1,5 +1,0 @@
-test_pkg
-/home/ubuntu/interbotix_ws/devel/.private/test_pkg/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/test_pkg/lib/pkgconfig/test_pkg.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/test_pkg.pc
-/home/ubuntu/interbotix_ws/devel/.private/test_pkg/share/test_pkg/cmake/test_pkgConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/test_pkg/cmake/test_pkgConfig-version.cmake
-/home/ubuntu/interbotix_ws/devel/.private/test_pkg/share/test_pkg/cmake/test_pkgConfig.cmake /home/ubuntu/interbotix_ws/devel/share/test_pkg/cmake/test_pkgConfig.cmake

@@ -1,5 +1,0 @@
-interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_gazebo
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_gazebo/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_gazebo/lib/pkgconfig/interbotix_xslocobot_gazebo.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_gazebo.pc
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_gazebo/share/interbotix_xslocobot_gazebo/cmake/interbotix_xslocobot_gazeboConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_gazebo/cmake/interbotix_xslocobot_gazeboConfig-version.cmake
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_gazebo/share/interbotix_xslocobot_gazebo/cmake/interbotix_xslocobot_gazeboConfig.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_gazebo/cmake/interbotix_xslocobot_gazeboConfig.cmake

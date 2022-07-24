@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/interbotix_ws/install
-
-Name: interbotix_xslocobot_nav
-Description: Description of interbotix_xslocobot_nav
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: interbotix_xslocobot_control move_base rtabmap_ros

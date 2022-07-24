@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules
-
-Name: interbotix_ux_modules
-Description: Description of interbotix_ux_modules
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,1 +1,0 @@
-/bin/c++ -fPIC   -shared -Wl,-soname,libinterbotix_xs_sdk.so -o /home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/lib/libinterbotix_xs_sdk.so CMakeFiles/interbotix_xs_sdk.dir/src/xs_sdk_obj.cpp.o   -L/usr/usr/lib/aarch64-linux-gnu 

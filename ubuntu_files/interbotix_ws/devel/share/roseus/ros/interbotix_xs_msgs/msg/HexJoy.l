@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_msgs/share/roseus/ros/interbotix_xs_msgs/msg/HexJoy.l

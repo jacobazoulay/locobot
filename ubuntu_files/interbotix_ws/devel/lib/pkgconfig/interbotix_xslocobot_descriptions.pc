@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_descriptions/lib/pkgconfig/interbotix_xslocobot_descriptions.pc

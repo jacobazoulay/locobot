@@ -1,4 +1,0 @@
-[31m[1mCMake Error[0m at /home/ubuntu/interbotix_ws/src/my_pkg/CMakeLists.txt:74:
-  Parse error.  Expected a command name, got right paren with text ")".
-
-

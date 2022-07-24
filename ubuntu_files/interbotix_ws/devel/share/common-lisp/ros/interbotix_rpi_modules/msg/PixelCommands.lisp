@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_rpi_modules/share/common-lisp/ros/interbotix_rpi_modules/msg/PixelCommands.lisp

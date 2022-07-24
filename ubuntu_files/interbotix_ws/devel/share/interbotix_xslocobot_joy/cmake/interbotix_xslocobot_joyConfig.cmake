@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_joy/share/interbotix_xslocobot_joy/cmake/interbotix_xslocobot_joyConfig.cmake

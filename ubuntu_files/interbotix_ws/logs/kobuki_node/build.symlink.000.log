@@ -1,5 +1,0 @@
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/libkobuki_ros.so
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/libkobuki_nodelet.so
-Symlinking /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/kobuki_node.pc
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig.cmake
-Symlinking /home/ubuntu/interbotix_ws/devel/share/kobuki_node/cmake/kobuki_nodeConfig-version.cmake

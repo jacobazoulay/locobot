@@ -1,7 +1,0 @@
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/lib/libinterbotix_xs_sdk.so, /home/ubuntu/interbotix_ws/devel/lib/libinterbotix_xs_sdk.so)
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/lib/interbotix_xs_sdk/cmake.lock, /home/ubuntu/interbotix_ws/devel/lib/interbotix_xs_sdk/cmake.lock)
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/lib/interbotix_xs_sdk/xs_sdk_sim, /home/ubuntu/interbotix_ws/devel/lib/interbotix_xs_sdk/xs_sdk_sim)
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/lib/interbotix_xs_sdk/xs_sdk, /home/ubuntu/interbotix_ws/devel/lib/interbotix_xs_sdk/xs_sdk)
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/lib/pkgconfig/interbotix_xs_sdk.pc, /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xs_sdk.pc)
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig-version.cmake, /home/ubuntu/interbotix_ws/devel/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig-version.cmake)
-Linked: (/home/ubuntu/interbotix_ws/devel/.private/interbotix_xs_sdk/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig.cmake, /home/ubuntu/interbotix_ws/devel/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig.cmake)

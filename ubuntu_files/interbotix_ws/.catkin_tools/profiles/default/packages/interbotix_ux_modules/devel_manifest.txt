@@ -1,6 +1,0 @@
-interbotix_ros_toolboxes/interbotix_ux_toolbox/interbotix_ux_modules
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules/lib/pkgconfig/interbotix_ux_modules.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_ux_modules.pc
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules/lib/python3/dist-packages/interbotix_ux_modules/__init__.py /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/interbotix_ux_modules/__init__.py
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules/share/interbotix_ux_modules/cmake/interbotix_ux_modulesConfig.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_ux_modules/cmake/interbotix_ux_modulesConfig.cmake
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_ux_modules/share/interbotix_ux_modules/cmake/interbotix_ux_modulesConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_ux_modules/cmake/interbotix_ux_modulesConfig-version.cmake

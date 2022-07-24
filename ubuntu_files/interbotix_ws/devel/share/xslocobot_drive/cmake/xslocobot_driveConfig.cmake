@@ -1,1 +1,0 @@
-/home/ubuntu/interbotix_ws/devel/.private/xslocobot_drive/share/xslocobot_drive/cmake/xslocobot_driveConfig.cmake

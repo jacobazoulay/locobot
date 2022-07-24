@@ -1,5 +1,0 @@
-interbotix_ros_rovers/interbotix_ros_xslocobots/interbotix_xslocobot_ros_control
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_ros_control/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_ros_control/lib/pkgconfig/interbotix_xslocobot_ros_control.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/interbotix_xslocobot_ros_control.pc
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_ros_control/share/interbotix_xslocobot_ros_control/cmake/interbotix_xslocobot_ros_controlConfig.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_ros_control/cmake/interbotix_xslocobot_ros_controlConfig.cmake
-/home/ubuntu/interbotix_ws/devel/.private/interbotix_xslocobot_ros_control/share/interbotix_xslocobot_ros_control/cmake/interbotix_xslocobot_ros_controlConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/interbotix_xslocobot_ros_control/cmake/interbotix_xslocobot_ros_controlConfig-version.cmake

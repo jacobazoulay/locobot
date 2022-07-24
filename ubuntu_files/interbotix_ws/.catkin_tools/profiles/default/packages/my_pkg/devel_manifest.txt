@@ -1,8 +1,0 @@
-my_pkg
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/cmake.lock /home/ubuntu/interbotix_ws/devel/./cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/lib/my_pkg/cmake.lock /home/ubuntu/interbotix_ws/devel/lib/my_pkg/cmake.lock
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/lib/my_pkg/move /home/ubuntu/interbotix_ws/devel/lib/my_pkg/move
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/lib/pkgconfig/my_pkg.pc /home/ubuntu/interbotix_ws/devel/lib/pkgconfig/my_pkg.pc
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/lib/python3/dist-packages/my_pkg/__init__.py /home/ubuntu/interbotix_ws/devel/lib/python3/dist-packages/my_pkg/__init__.py
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/share/my_pkg/cmake/my_pkgConfig.cmake /home/ubuntu/interbotix_ws/devel/share/my_pkg/cmake/my_pkgConfig.cmake
-/home/ubuntu/interbotix_ws/devel/.private/my_pkg/share/my_pkg/cmake/my_pkgConfig-version.cmake /home/ubuntu/interbotix_ws/devel/share/my_pkg/cmake/my_pkgConfig-version.cmake
