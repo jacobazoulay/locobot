@@ -12,7 +12,7 @@ def pickup(bot):
     bot.gripper.close()
     bot.arm.set_joint_positions(holdState)
 
-#
+
 def comeHither(bot):
     state = [0.0, 0.0, -1/2, 0.0, -1, 0.0]
     bot.arm.go_to_home_pose()
@@ -20,9 +20,6 @@ def comeHither(bot):
         bot.arm.set_joint_positions(state)
         bot.arm.go_to_home_pose()
         time.sleep(0.1)
-
-
-
 
 
 def main():
@@ -36,9 +33,6 @@ def main():
     time.sleep(5)
     comeHither(locobot)
     
-    
-
-
 
 if __name__=='__main__':
     main()
